@@ -1,4 +1,4 @@
-# Build your own Blockchain in Javascript
+# Build your own Blockchain in Javascript jhgh
 
 With all the hype about blockchains and cryptocurrencies, I decided to learn a bit more about it. And what better way to learn than to try to build it yourself? Below you will find a step-to-step explanation of how a blockchain works and how to build one from their basic principles. At every step below, you can check out the equivalent version of the demo at [blockchain-step${N}.nambrot.com](https://blockchain.nambrot.com) with the final version being available at [blockchain.nambrot.com](https://blockchain.nambrot.com) Disclaimer: I took some liberties in some aspects where this blockchain will diverge from reality for pedagogical purposes.
 
